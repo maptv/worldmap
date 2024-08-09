@@ -1,0 +1,352 @@
+[DEFAULT]
+default_pinwidth: 100%
+
+[18e0n]
+longitude: 18e
+latitude: 0n
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e36n]
+longitude: 18e
+latitude: 36n
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e72n]
+longitude: 18e
+latitude: 72n
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e80n50]
+longitude: 18e
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e36s]
+longitude: 18e
+latitude: 36s
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e72s]
+longitude: 18e
+latitude: 72s
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[18e80s50]
+longitude: 18e
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/18th_meridian_east
+
+[54e0n]
+longitude: 54e
+latitude: 0n
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e36n]
+longitude: 54e
+latitude: 36n
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e72n]
+longitude: 54e
+latitude: 72n
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e80n50]
+longitude: 54e
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e36s]
+longitude: 54e
+latitude: 36s
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e72s]
+longitude: 54e
+latitude: 72s
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[54e80s50]
+longitude: 54e
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/54th_meridian_east
+
+[90e0n]
+longitude: 90e
+latitude: 0n
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e36n]
+longitude: 90e
+latitude: 36n
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e72n]
+longitude: 90e
+latitude: 72n
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e80n50]
+longitude: 90e
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e36s]
+longitude: 90e
+latitude: 36s
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e72s]
+longitude: 90e
+latitude: 72s
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[90e80s50]
+longitude: 90e
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/90th_meridian_east
+
+[126e0n]
+longitude: 126e
+latitude: 0n
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e36n]
+longitude: 126e
+latitude: 36n
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e72n]
+longitude: 126e
+latitude: 72n
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e80n50]
+longitude: 126e
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e36s]
+longitude: 126e
+latitude: 36s
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e72s]
+longitude: 126e
+latitude: 72s
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[126e80s50]
+longitude: 126e
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/126th_meridian_east
+
+[162e0n]
+longitude: 162e
+latitude: 0n
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e36n]
+longitude: 162e
+latitude: 36n
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e72n]
+longitude: 162e
+latitude: 72n
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e80n50]
+longitude: 162e
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e36s]
+longitude: 162e
+latitude: 36s
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e72s]
+longitude: 162e
+latitude: 72s
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[162e80s50]
+longitude: 162e
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/162th_meridian_east
+
+[18w0n]
+longitude: 18w
+latitude: 0n
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w36n]
+longitude: 18w
+latitude: 36n
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w72n]
+longitude: 18w
+latitude: 72n
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w80n50]
+longitude: 18w
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w36s]
+longitude: 18w
+latitude: 36s
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w72s]
+longitude: 18w
+latitude: 72s
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[18w80s50]
+longitude: 18w
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/18th_meridian_west
+
+[54w0n]
+longitude: 54w
+latitude: 0n
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w36n]
+longitude: 54w
+latitude: 36n
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w72n]
+longitude: 54w
+latitude: 72n
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w80n50]
+longitude: 54w
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w36s]
+longitude: 54w
+latitude: 36s
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w72s]
+longitude: 54w
+latitude: 72s
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[54w80s50]
+longitude: 54w
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/54th_meridian_west
+
+[90w0n]
+longitude: 90w
+latitude: 0n
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w36n]
+longitude: 90w
+latitude: 36n
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w72n]
+longitude: 90w
+latitude: 72n
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w80n50]
+longitude: 90w
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w36s]
+longitude: 90w
+latitude: 36s
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w72s]
+longitude: 90w
+latitude: 72s
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[90w80s50]
+longitude: 90w
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/90th_meridian_west
+
+[126w0n]
+longitude: 126w
+latitude: 0n
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w36n]
+longitude: 126w
+latitude: 36n
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w72n]
+longitude: 126w
+latitude: 72n
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w80n50]
+longitude: 126w
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w36s]
+longitude: 126w
+latitude: 36s
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w72s]
+longitude: 126w
+latitude: 72s
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[126w80s50]
+longitude: 126w
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/126th_meridian_west
+
+[162w0n]
+longitude: 162w
+latitude: 0n
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w36n]
+longitude: 162w
+latitude: 36n
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w72n]
+longitude: 162w
+latitude: 72n
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w80n50]
+longitude: 162w
+latitude: 80n50
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w36s]
+longitude: 162w
+latitude: 36s
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w72s]
+longitude: 162w
+latitude: 72s
+url: https://en.wikipedia.org/wiki/162th_meridian_west
+
+[162w80s50]
+longitude: 162w
+latitude: 80s50
+url: https://en.wikipedia.org/wiki/162th_meridian_west
